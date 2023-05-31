@@ -1,0 +1,60 @@
+body {
+    text-align: center;
+}
+
+.principal {
+    width: 592px;
+    height: 579px;
+    margin: auto;
+}
+
+.principal h1 {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 49px;
+    line-height: 56px;
+}
+
+.principal h1 span {
+    font-weight: 700;
+}
+
+.principal p {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 28px;
+    color: #7D7987;
+}
+
+.principal span {
+    color: #FF9900;
+}
+
+
+.footer {
+    margin: auto;
+    width: 592px;
+    height: 36px;
+    border-top: 1px #ECEFF2 solid;
+    margin-top: 72px;
+    padding-top: 8px;
+}
+
+.footer a {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 28px;
+    margin-left: 28px;
+    color: #FF9900;
+}
+
+.balls {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
